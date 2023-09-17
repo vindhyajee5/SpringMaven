@@ -18,7 +18,7 @@ public class SpringBootMavenApplication {
         logger.info("An INFO Hello World, Spring Boot!");
         logger.warn("A WARN Hello World, Spring Boot!");
         logger.error("An ERROR Hello World, Spring Boot!");
-        return "Hello World, Spring Boot!";
+        return "Hello World, Spring Boot Vindhyachal!";
     }
 
 	public static void main(String[] args) {
